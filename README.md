@@ -2,10 +2,6 @@
 
 **A console‑based Gomoku engine written in Java 17, featuring an emoji board, human‑vs‑human play and a pluggable minimax AI.**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your‑user/your‑repo/main/docs/board_sample.png" width="600" alt="Sample board screenshot"/>
-</p>
-
 ---
 
 ## Features
